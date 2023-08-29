@@ -1,4 +1,4 @@
-Installing jenkins on Linux machines
+Installing jenkins on Linux machines...
 =========================================
 1 Go to the jenkins server linux machine(username: vagrant password:vagrant)
 2 sudo passwd root
